@@ -1,0 +1,6 @@
+{
+    "latent_factors": 18, 
+    "alpha": 40.0, 
+    "regularization": 0.01, 
+    "iterations": 30
+}
